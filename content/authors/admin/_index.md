@@ -33,7 +33,7 @@ education:
   - course: MSc in Data Science and Statistics
     institution: Université Paris 1 Panthéon-Sorbonne
     year: 2021
-  - course: BSc and Msc in Applied Mathematics and Computer Science
+  - course: BSc and Msc in Applied Mathematics
     institution: Ecole Polytechnique
     year: 2021
 
