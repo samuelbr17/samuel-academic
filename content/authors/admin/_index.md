@@ -15,7 +15,7 @@ organizations:
 - name: Inserm
   url: https://www.inserm.fr
 
-# Short bio (displayed in user profile at end of posts)
+# Short (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
@@ -76,6 +76,6 @@ Always looking for a challenge, participated in scientific Olympiads, obtaining 
 
 Former undergraduate student at Instituto Tecnológico de Aeronáutica (ITA, Brazil) and former master student at École Polytechnique (X, France) and Université Paris 1 Panthéon-Sorbonne (Paris 1, France).
 
-Course Lecturer at Université Paris 1 Panthéon-Sorbonne (Paris 1, France). Currently PhD candidate at both Inria Saclay and Inserm at [Parietal](https://team.inria.fr/parietal/) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info) and [Jill-Jenn Vie](https://jill-jenn.net).
+Currently PhD candidate at both Inria Saclay and Inserm at [Parietal](https://team.inria.fr/parietal/) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info) and [Jill-Jenn Vie](https://jill-jenn.net).
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
