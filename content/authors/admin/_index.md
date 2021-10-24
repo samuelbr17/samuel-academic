@@ -74,4 +74,4 @@ highlight_name: true
 
 PhD candidate at both Inria Saclay and Inserm at [Parietal](https://team.inria.fr/parietal/) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info) and [Jill-Jenn Vie](https://jill-jenn.net). Course Lecturer at Université Paris 1 Panthéon-Sorbonne (Paris 1, France).
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
