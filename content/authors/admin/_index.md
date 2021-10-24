@@ -21,21 +21,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- e-Health
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Université Paris-Saclay
+    year: 2024
+  - course: MSc in Data Science and Statistics
+    institution: Université Paris 1 Panthéon-Sorbonne
+    year: 2021
+  - course: BSc and Msc in Applied Mathematics and Computer Science
+    institution: Ecole Polytechnique
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#samuel.brasil-de-albuquerque@inria.fr'
+  link: mailto:samuel.brasil-de-albuquerque@inria.fr
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/samuel_brsl
@@ -72,8 +72,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Always looking for a challenge, participated in scientific Olympiads, obtaining more than 35 national and international medals in several modalities, later becoming a teacher. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Former undergraduate student at Instituto Tecnológico de Aeronáutica (ITA, Brazil) and former master student at École Polytechnique (X, France) and Université Paris 1 Panthéon-Sorbonne (Paris 1, France).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Course Lecturer at Université Paris 1 Panthéon-Sorbonne (Paris 1, France). Currently PhD candidate at both Inria Saclay and Inserm at [Parietal](https://team.inria.fr/parietal/) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info) and [Jill-Jenn Vie](https://jill-jenn.net).
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
