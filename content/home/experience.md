@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Paris
-    date_start: '2020-09'
-    date_end: '2021-09'
+    date_start: '2020-09-01'
+    date_end: '2021-09-01'
    
         
   - title: Professor of Semiconductor Physics
