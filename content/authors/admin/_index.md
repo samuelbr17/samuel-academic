@@ -35,7 +35,7 @@ education:
     year: 2021
   - course: BSc and Msc in Applied Mathematics
     institution: Ecole Polytechnique
-    year: 2021
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
