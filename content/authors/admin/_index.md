@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Samuel Brasil de Albuquerque
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate @ Inria and Inserm
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Inria
+  url: https://www.inria.fr/fr
+- name: Inserm
+  url: https://www.inserm.fr
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
