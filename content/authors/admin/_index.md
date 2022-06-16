@@ -15,13 +15,11 @@ organizations:
 - name: Inserm
   url: https://www.inserm.fr
 
-# Short (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Machine Learning
 - Statistics
+- Causal Inference
 - e-Health
 
 # Education to show in About widget
@@ -72,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-PhD candidate at both Inria Saclay and Inserm at [Parietal](https://team.inria.fr/parietal/) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info) and [Jill-Jenn Vie](https://jill-jenn.net). Course Lecturer at Université Paris 1 Panthéon-Sorbonne (Paris 1, France).
+PhD candidate working on diabetes epidemiology from observational health informatics at both Inria Saclay at [Soda](https://team.inria.fr/soda/) team and Inserm at [Immediab](https://www.immediab.com) team, under the supervision of [Gaël Varoquaux](http://gael-varoquaux.info), [Jill-Jenn Vie](https://jill-jenn.net) and Dr Louis Potier. Course Lecturer at Université Paris 1 Panthéon-Sorbonne (Paris 1, France).
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
